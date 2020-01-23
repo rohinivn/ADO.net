@@ -1,0 +1,6 @@
+C:\Users\rohini\source\repos\Connectivity\Connectivity\bin\Debug\Connectivity.exe.config
+C:\Users\rohini\source\repos\Connectivity\Connectivity\bin\Debug\Connectivity.exe
+C:\Users\rohini\source\repos\Connectivity\Connectivity\bin\Debug\Connectivity.pdb
+C:\Users\rohini\source\repos\Connectivity\Connectivity\obj\Debug\Connectivity.csprojAssemblyReference.cache
+C:\Users\rohini\source\repos\Connectivity\Connectivity\obj\Debug\Connectivity.exe
+C:\Users\rohini\source\repos\Connectivity\Connectivity\obj\Debug\Connectivity.pdb
